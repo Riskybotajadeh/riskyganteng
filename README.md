@@ -5,7 +5,7 @@
 
 # CATATAN ( NOTE )
 Script ori - DikaArdnt
-Recode - The Jo Bot
+Recode - The Risky Bot
 
 Jangan dijual kontol!!!
 Gw yg capek lu yg jual yg hanya tinggal nyomot dan rename.
@@ -13,9 +13,9 @@ Kalau cuma rename anak esde jg bisa.
 Rename sewajarnyalah!!!
 Di TQ TO nama gw jgn dihapus bangsat.
 
-Best Regards. The Jo Bot
+Best Regards. The Risky Bot
 
-# THE_JO_BOT
+# THE_Lord_Risky
 Script WhatsApp Bot Multi Device
 
 ## NOTE
@@ -33,8 +33,8 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 ## My Project
 * New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
-* WhatsApp Bot normal [`THEJO307/jo-private`](https://github.com/THEJO307/jo-private)
-* WhatsApp Bot Multi Device [`THEJO307/jo-private`](https://github.com/THEJO307/jo-private)
+* WhatsApp Bot normal [`THEJO307/jo-private`](https://github.com/Riskybotajadeh/riskyganteng)
+* WhatsApp Bot Multi Device [`THEJO307/jo-private`](https://github.com/Riskybotajadeh/riskyganteng)
 
 
 ## UNTUK PENGGUNA WINDOWS/RDP
@@ -45,8 +45,8 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 ```bash
-git https://github.com/THEJO307/jo-private
-cd jo-private
+git https://github.com/Riskybotajadeh/riskyganteng
+cd riskyganteng
 npm install
 ```
 
@@ -87,7 +87,7 @@ $ node .
 WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
-Editing Number Owner & session name in [`config.js`](https://github.com/THEJO307/jo-private/blob/master/config.js)
+Editing Number Owner & session name in [`config.js`](https://github.com/Riskybotajadeh/riskyganteng/blob/master/config.js)
 Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
