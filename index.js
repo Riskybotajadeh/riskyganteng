@@ -163,12 +163,12 @@ async function startjobotz() {
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 ╭━━•›〘 SUBSCRIBE 〙
 │➳ Channel YouTube
-│➳ THE JO BOT
-│➳ https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w
+│➳ 𝗥𝗜𝗦𝗞𝗬 𝗕𝗢𝗧 𝗠𝗗
+│➳ https://youtube.com/channel/UC_dYeKNRug2fKuS9NX58h3w
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© THE JO BOT
+© 𝗟𝗢𝗥𝗗 𝗥𝗜𝗦𝗞𝗬
 `
                   jobotz.sendMessage(anu.id, { image: { url: pp_user }, contextInfo: { mentionedJid: [num] }, caption: anunya2 })
                 }
