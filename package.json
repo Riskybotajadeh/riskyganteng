@@ -1,5 +1,5 @@
 {
-  "name": "jo-bot",
+  "name": "𝗥𝗜𝗦𝗞𝗬 𝗕𝗢𝗧",
   "version": "8.5.4",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "The Jo Bot.",
+  "author": "𝗥𝗶𝘀𝗸𝘆 𝗕𝗼𝘁 𝗠𝗱.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
